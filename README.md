@@ -1,7 +1,10 @@
 # Accident-detection-system
 
-## Connect
+## Contact
 www.x.com/@RadiantCritter
+
+![image](https://github.com/RadiantCritter/accident_detection_sys_py/assets/156023946/9c763af7-7171-4c6b-9952-66180e28e245)
+
 
 ## About the Project
 This Repository contains the Video-based Accident Detection System built in Python.
